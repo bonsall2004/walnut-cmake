@@ -30,3 +30,7 @@ you don't **NEED** all of those includes but to make the most out of it, I would
 ### Additional
 - I haven't tested this on Linux or MacOS, I only know that it works on windows, again your milage may vary
 - Walnut uses the [Roboto](https://fonts.google.com/specimen/Roboto) font ([Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0))
+
+### Author
+- CMake Addition [bonsall2004](https://github.com/bonsall2004)
+- Walnut [StudioCherno](https://github.com/StudioCherno/Walnut)

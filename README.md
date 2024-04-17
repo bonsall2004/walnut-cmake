@@ -32,5 +32,5 @@ you don't **NEED** all of those includes but to make the most out of it, I would
 - Walnut uses the [Roboto](https://fonts.google.com/specimen/Roboto) font ([Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0))
 
 ### Author
-- CMake Addition [bonsall2004](https://github.com/bonsall2004)
-- Walnut [StudioCherno](https://github.com/StudioCherno/Walnut)
+- CMake Addition     -  [bonsall2004](https://github.com/bonsall2004)
+- Walnut             -  [StudioCherno](https://github.com/StudioCherno/Walnut)
